@@ -1,8 +1,16 @@
+
 # PicPayClone
-</br>
 <p align="center">
-    <img src="https://media.giphy.com/media/S3nI6I7anJ0g6BdcrY/giphy.gif" alt="PicPay" />
+    <img src="https://user-images.githubusercontent.com/1765696/26998603-711fcf30-4d5c-11e7-9281-0d9eb20337ad.png" width="300" alt="PicPay" />
 </p>
+<p align="center">
+    <img src="https://media.giphy.com/media/hTa7WOi4m8ny4MFHB6/giphy.gif" alt="PicPay" />
+    <img src="https://media.giphy.com/media/UopnJw0dOlF8iDL4Pd/giphy.gif" alt="PicPay" />
+    <img src="https://media.giphy.com/media/WthPKLhgTJHShmQBjy/giphy.gif" alt="PicPay" />
+    <img src="https://media.giphy.com/media/Sv3r74cP1CspRZXl4I/giphy.gif" alt="PicPay" />
+    <img src="https://media.giphy.com/media/J2b5OLwjJ90kUFomBb/giphy.gif" alt="PicPay" />
+</p>
+
 </br>
 
 # About this Project
